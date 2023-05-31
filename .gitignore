@@ -1,0 +1,14 @@
+# compiled output
+/dist
+/node_modules
+/publisher-server/node_modules
+/subscriber-server/node_modules
+/publisher-server/package-lock.json
+/subscriber-server/package-lock.json
+
+.env
+# OS
+.DS_Store
+
+# IDE - VSCode
+.vscode/*
